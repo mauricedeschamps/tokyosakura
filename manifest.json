@@ -1,0 +1,49 @@
+{
+  "name": "Tokyo Cherry Blossom Guide - Best Hanami Spots",
+  "short_name": "Tokyo Cherry",
+  "description": "Discover the best cherry blossom viewing spots in Tokyo. Complete guide for hanami season with maps and tips.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#362f4a",
+  "theme_color": "#362f4a",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["travel", "lifestyle", "japan"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%23362f4a'/%3E%3Ccircle cx='50' cy='35' r='20' fill='%23ff8a9f'/%3E%3Ccircle cx='35' cy='27' r='5' fill='%23ffffff' opacity='0.9'/%3E%3Ccircle cx='65' cy='27' r='5' fill='%23ffffff' opacity='0.9'/%3E%3Cpath d='M40 45 Q50 60 60 45' stroke='%23943e4e' stroke-width='4' fill='none' stroke-linecap='round'/%3E%3Cpath d='M20 15 L35 5 M80 15 L65 5' stroke='%23ffffff' stroke-width='3' fill='none' opacity='0.7'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%23362f4a'/%3E%3Ccircle cx='50' cy='35' r='20' fill='%23ff8a9f'/%3E%3Ccircle cx='35' cy='27' r='5' fill='%23ffffff' opacity='0.9'/%3E%3Ccircle cx='65' cy='27' r='5' fill='%23ffffff' opacity='0.9'/%3E%3Cpath d='M40 45 Q50 60 60 45' stroke='%23943e4e' stroke-width='4' fill='none' stroke-linecap='round'/%3E%3Cpath d='M20 15 L35 5 M80 15 L65 5' stroke='%23ffffff' stroke-width='3' fill='none' opacity='0.7'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1280' height='720' viewBox='0 0 1280 720'%3E%3Crect width='1280' height='720' fill='%23362f4a'/%3E%3Ctext x='100' y='200' fill='%23ffa5b9' font-size='48' font-family='Arial'%3ETokyo Cherry Blossom Guide%3C/text%3E%3C/svg%3E",
+      "sizes": "1280x720",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "View All Spots",
+      "short_name": "Spots",
+      "description": "View all cherry blossom spots",
+      "url": "index.html#spots",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%23ff8a9f'/%3E%3C/svg%3E",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
